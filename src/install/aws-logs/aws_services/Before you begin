@@ -1,0 +1,12 @@
+---
+headingText: Before you begin
+componentType: default
+---
+
+
+### Prerequisites [#prerequisites]
+Before you begin, ensure you have the following:
+
+* A New Relic <InlinePopover type="licenseKey"/>. You can set up a free account, no credit card required.
+* An AWS account with [permissions](https://docs.aws.amazon.com/ARG/latest/userguide/gettingstarted-prereqs-permissions.html) to deploy new AWS resources and [IAM roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
+* A New Relic account with [permissions](/docs/accounts/accounts-billing/new-relic-one-user-management/user-permissions/#logs) to set up log forwarding
